@@ -56,7 +56,7 @@ export default function LandingPage() {
               <div className="relative bg-white rounded-xl shadow-2xl overflow-hidden border border-gray-100">
                 <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-primary to-secondary"></div>
                 <img
-                  src="/placeholder.svg?height=400&width=600"
+                  src="./public/mcp-architecture.png"
                   alt="Afreasy Marketplace Dashboard"
                   className="w-full h-auto"
                 />
